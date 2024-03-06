@@ -23,6 +23,7 @@ Program to implement univariate Linear Regression to fit a straight line using l
 Developed by: jeevanandam m
 RegisterNumber: 212222220017
 */
+
 ```
 Program to implement univariate Linear Regression to fit a straight line using least squares.
 Developed by: S SABARI
@@ -44,11 +45,13 @@ y_pred=m*x+b
 print(y_pred)
 plt.scatter(x,y)
 plt.plot(x,y_pred,color="violet")
-plt.show()
+
 ```
 
 ## Output:
-![228293284-36b6865d-0974-42c9-a812-9ecac11d3d6c](https://github.com/jeeva078/Find-the-best-fit-line-using-Least-Squares-Method/assets/147048597/dcc83597-b3c8-43af-8874-de036f2a52e6)
+![228293284-36b6865d-0974-42c9-a812-9ecac11d3d6c](https://github.com/jeeva078/Find-the-best-fit-line-using-Least-Squares-Method/assets/147048597/6201b0b7-3bca-4e70-8934-41cf27e608a1)
+
+
 
 
 
