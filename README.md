@@ -24,9 +24,7 @@ Developed by: jeevanandam m
 RegisterNumber: 212222220017
 */
 
-```
-Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: S SABARI
+
 RegisterNumber: 212222240085
 import numpy as np
 import matplotlib.pyplot as plt
