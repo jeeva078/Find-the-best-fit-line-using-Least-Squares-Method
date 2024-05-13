@@ -25,7 +25,6 @@ RegisterNumber: 212222220017
 */
 
 
-RegisterNumber: 212222240085
 import numpy as np
 import matplotlib.pyplot as plt
 x=np.array(eval(input()))
